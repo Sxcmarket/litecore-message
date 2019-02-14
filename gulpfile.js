@@ -1,8 +1,8 @@
 'use strict';
 
 var gulp = require('gulp');
-var litecoreTasks = require('litecore-build');
+var sexcoreTasks = require('sexcore-build');
 
-litecoreTasks('message');
+sexcoreTasks('message');
 
 gulp.task('default', ['lint', 'coverage']);

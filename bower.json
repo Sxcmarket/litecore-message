@@ -1,19 +1,19 @@
 {
-  "name": "litecore-message",
-  "main": "./litecore-message.min.js",
+  "name": "sexcore-message",
+  "main": "./sexcore-message.min.js",
   "version": "1.0.2",
-  "homepage": "https://github.com/litecoin-project/litecore-message",
+  "homepage": "https://github.com/Sxcmarket/sexcore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Litecoin Message Verification and Signing for Litecore",
+  "description": "Sexcoin Message Verification and Signing for Sexcore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "litecoin",
-    "litecore",
-    "ltc",
+    "sexcoin",
+    "sexcore",
+    "sxc",
     "satoshi",
     "message",
     "signing"
