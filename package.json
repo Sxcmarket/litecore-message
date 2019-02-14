@@ -1,6 +1,6 @@
 {
   "name": "sexcore-message",
-  "version": "1.0.611",
+  "version": "1.0.612",
   "description": "Sexcoin Messages for Sexcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
