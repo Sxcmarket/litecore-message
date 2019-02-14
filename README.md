@@ -1,10 +1,9 @@
-<img src="http://bitcore.io/css/images/module-message.png" alt="sexcore message" height="35">
 # Sexcoin Message Verification and Signing for Sexcore
 
 
-[![NPM Package](https://img.shields.io/npm/v/litecore-message.svg?style=flat-square)](https://www.npmjs.org/package/litecore-message)
-[![Build Status](https://img.shields.io/travis/litecoin-project/litecore-message.svg?branch=master&style=flat-square)](https://travis-ci.org/litecoin-project/litecore-message)
-[![Coverage Status](https://img.shields.io/coveralls/litecoin-project/litecore-message.svg?style=flat-square)](https://coveralls.io/r/litecoin-project/litecore-message?branch=master)
+[![NPM Package](https://img.shields.io/npm/v/sexcore-message.svg?style=flat-square)](https://www.npmjs.org/package/sexcore-message)
+[![Build Status](https://travis-ci.org/Sxcmarket/sexcore-message.svg?branch=master)](https://travis-ci.org/Sxcmarket/sexcore-message)
+[![Coverage Status](https://coveralls.io/repos/github/Sxcmarket/sexcore-message/badge.svg?branch=master)](https://coveralls.io/github/Sxcmarket/sexcore-message?branch=master)
 
 sexcore-message adds support for verifying and signing sexcoin messages in [Node.js](http://nodejs.org/) and web browsers.
 
